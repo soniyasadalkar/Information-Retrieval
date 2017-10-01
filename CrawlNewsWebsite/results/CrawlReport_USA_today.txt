@@ -1,0 +1,43 @@
+Name: Soniya Sadalkar
+USC ID : 6771634935
+News site crawled : usatoday.com
+
+Fetch Statistics
+================
+# fetches attempted: 19975
+# fetches succeeded: 18340
+# fetched failed/aborted: 1635
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3119609
+Unique URLs extracted: 340337
+Unique URLs within news site: 64434
+Unique URLS outside news site: 275903
+
+Status Codes:
+=============
+200 OK: 18340
+301 Moved Permanently: 1481
+302 Moved Temporarily: 122
+403 Forbidden: 0
+404 Not Found: 5
+500 Internal Server Error: 27
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 24
+10KB ~ <100KB: 759
+100KB ~ <1MB: 17440
+>=1MB: 116
+
+Content Types:
+==============
+text/html: 18340
+image/png: 0
+image/jpeg: 0
+image/svg+xml: 0
+image/gif: 0
+image/x-icon: 0
+application/pdf: 0
